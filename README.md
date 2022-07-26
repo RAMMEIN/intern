@@ -1,6 +1,6 @@
 ### Senaryo
 
-Birbirleri ile haberleşen minimum iki microservice'in olduğu bir yapı tasarlayarak, basit bir telefon rehberi uygulaması oluşturulması sağlanacaktır.
+Basit bir telefon rehberi uygulaması oluşturulması sağlanacaktır.
 
 Beklenen işlevler:
 - Rehberde kişi oluşturma
